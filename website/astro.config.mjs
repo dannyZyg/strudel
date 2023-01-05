@@ -30,8 +30,8 @@ export default defineConfig({
     mdx(options),
     tailwind(),
   ],
-  site: `https://patterns.dannykeig.com`,
-  base: '',
+  site: `https://patterns.dannykeig.com/strudel`,
+  base: '/strudel',
 });
 
 /*
