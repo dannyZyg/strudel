@@ -31,7 +31,7 @@ export default defineConfig({
     tailwind(),
   ],
   site: `https://patterns.dannykeig.com`,
-  base: '/strudel',
+  base: '',
 });
 
 /*
